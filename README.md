@@ -4,9 +4,11 @@
 
 ### Code for NoVA Website
 
-https://codefornova.org/
-https://github.com/sarl-hackerspace/codefornova
+https://codefornova.org/  
+https://github.com/sarl-hackerspace/codefornova  
 
 ### Reveal.js Server
 
 ### Volunteer NFTs
+
+### Decentralized Governance
