@@ -10,5 +10,9 @@ https://github.com/sarl-hackerspace/codefornova
 ### Reveal.js Server
 
 ### Volunteer NFTs
+#### Decentralized Governance
+Try to encourage volunteer work and civic hacking by providing NTFs as a nonmonetary form of exchanage.
 
-### Decentralized Governance
+
+### Git training
+
