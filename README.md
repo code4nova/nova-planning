@@ -16,3 +16,6 @@ Try to encourage volunteer work and civic hacking by providing NTFs as a nonmone
 
 ### Git training
 
+## Old Projects
+- Alexandria Plays (http://projectplay.herokuapp.com/)
+- Transportr (https://github.com/liamnorm/Transportr)
