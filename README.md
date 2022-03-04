@@ -4,14 +4,14 @@
 
 ### Code for NoVA Website
 
-https://codefornova.org  
-https://github.com/sarl-hackerspace/codefornova  
+- https://codefornova.org  
+- https://github.com/sarl-hackerspace/codefornova  
 
 ### Reveal.js Server
 - Server for students to upload Reveal.js class presentations
 
 ### Volunteer NFTs
-- Try to encourage volunteer work and civic hacking by providing NTFs as a nonmonetary form of exchanage.
+- Try to encourage volunteer work and civic hacking by providing NTFs as a non-monetary form of exchange.
 ### Decentralized Governance
 - Trying to see any better way to manage Brigades
 
@@ -28,3 +28,4 @@ https://github.com/sarl-hackerspace/codefornova
 ## Others
 - Code for America 2022 May 17-18 Summit in Washington DC area (https://summit.codeforamerica.org)
 - Meetup management (https://www.meetup.com/Code-for-NoVA)
+- Brigade communication tool (Meetup chats, open-source alternative to Slack)
