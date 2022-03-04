@@ -4,7 +4,7 @@
 
 ### Code for NoVA Website
 
-https://codefornova.org/  
+https://codefornova.org  
 https://github.com/sarl-hackerspace/codefornova  
 
 ### Reveal.js Server
@@ -19,7 +19,12 @@ https://github.com/sarl-hackerspace/codefornova
 - Beginner training for Git or GitHub
 
 ## Old Projects
-- Alexandria Plays (http://projectplay.herokuapp.com/)
+- Alexandria Plays (http://projectplay.herokuapp.com, https://github.com/sarl-hackerspace/projectplay-server)
 - Transportr (https://github.com/liamnorm/Transportr)
+- NSFPatents (https://github.com/sarl-hackerspace/NSFPatents)
 - Old Twitter (https://twitter.com/codenovabrigade)
 - Old Google Group (https://groups.google.com/g/nova-brigade)
+
+## Others
+- Code for America 2022 May 17-18 Summit in Washington DC area (https://summit.codeforamerica.org)
+- Meetup management (https://www.meetup.com/Code-for-NoVA)
