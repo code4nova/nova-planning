@@ -29,3 +29,4 @@
 - Code for America 2022 May 17-18 Summit in Washington DC area (https://summit.codeforamerica.org)
 - Meetup management (https://www.meetup.com/Code-for-NoVA)
 - Brigade communication tool (Meetup chats, open-source alternative to Slack (https://github.com/zulip/zulip))
+ - https://code4nova.zulipchat.com
