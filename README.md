@@ -19,6 +19,9 @@
 ### Git training
 - Beginner training for Git or GitHub
 
+### George Mason University Democratizing Nova
+- New grant proposal from GMU involving Code for Nova (https://cssr.gmu.edu/next-system-studies/democratizing-nova)
+
 ## Old Projects
 - Alexandria Plays (http://projectplay.herokuapp.com, https://github.com/sarl-hackerspace/projectplay-server)
 - Transportr (https://github.com/liamnorm/Transportr)
