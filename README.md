@@ -5,7 +5,7 @@
 ### Code for NoVA Website
 
 - https://codefornova.org  
-- https://github.com/sarl-hackerspace/cfn_refresh (New website)  
+- https://github.com/sarl-hackerspace/cfn_refresh (New website - https://sarl-hackerspace.github.io/cfn_refresh)  
 - https://github.com/sarl-hackerspace/codefornova (Old website for reference)  
 
 ### Reveal.js Server
