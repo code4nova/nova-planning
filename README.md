@@ -5,7 +5,7 @@
 ### Code for NoVA Website
 
 - https://codefornova.org  
-- https://github.com/code4nova/cfn_refresh (New website - https://sarl-hackerspace.github.io/cfn_refresh)  
+- https://github.com/code4nova/cfn_refresh (New website - https://code4nova.github.io/cfn_refresh)  
 - https://github.com/code4nova/codefornova (Old website for reference)  
 
 ### Reveal.js Server
@@ -23,7 +23,7 @@
 - New grant proposal from GMU involving Code for Nova (https://cssr.gmu.edu/next-system-studies/democratizing-nova)
 
 ## Old Projects
-- Alexandria Plays (http://projectplay.herokuapp.com, https://github.com/sarl-hackerspace/projectplay-server)
+- Alexandria Plays (http://projectplay.herokuapp.com, https://github.com/code4nova/projectplay-server)
 - Transportr (https://github.com/liamnorm/Transportr)
 - NSFPatents (https://github.com/code4nova/NSFPatents)
 - Old Twitter (https://twitter.com/codenovabrigade)
