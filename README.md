@@ -5,7 +5,8 @@
 ### Code for NoVA Website
 
 - https://codefornova.org  
-- https://github.com/sarl-hackerspace/codefornova  
+- https://github.com/sarl-hackerspace/cfn_refresh (New website)  
+- https://github.com/sarl-hackerspace/codefornova (Old website for reference)  
 
 ### Reveal.js Server
 - Server for students to upload Reveal.js class presentations
