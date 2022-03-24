@@ -5,8 +5,8 @@
 ### Code for NoVA Website
 
 - https://codefornova.org  
-- https://github.com/sarl-hackerspace/cfn_refresh (New website - https://sarl-hackerspace.github.io/cfn_refresh)  
-- https://github.com/sarl-hackerspace/codefornova (Old website for reference)  
+- https://github.com/code4nova/cfn_refresh (New website - https://sarl-hackerspace.github.io/cfn_refresh)  
+- https://github.com/code4nova/codefornova (Old website for reference)  
 
 ### Reveal.js Server
 - Server for students to upload Reveal.js class presentations
@@ -25,7 +25,7 @@
 ## Old Projects
 - Alexandria Plays (http://projectplay.herokuapp.com, https://github.com/sarl-hackerspace/projectplay-server)
 - Transportr (https://github.com/liamnorm/Transportr)
-- NSFPatents (https://github.com/sarl-hackerspace/NSFPatents)
+- NSFPatents (https://github.com/code4nova/NSFPatents)
 - Old Twitter (https://twitter.com/codenovabrigade)
 - Old Google Group (https://groups.google.com/g/nova-brigade)
 
