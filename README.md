@@ -11,11 +11,6 @@
 ### Reveal.js Server
 - Server for students to upload Reveal.js class presentations
 
-### Volunteer NFTs
-- Try to encourage volunteer work and civic hacking by providing NTFs as a non-monetary form of exchange.
-### Decentralized Governance
-- Trying to see any better way to manage Brigades
-
 ### Git training
 - Beginner training for Git or GitHub
 
@@ -31,6 +26,6 @@
 
 ## Others
 - Code for America 2022 May 17-18 Summit in Washington DC area (https://summit.codeforamerica.org)
-- Meetup management (https://www.meetup.com/Code-for-NoVA)
+- Get Together event list: (https://gettogether.community/code-for-nova)
 - Brigade communication tool (Meetup chats, open-source alternative to Slack (https://github.com/zulip/zulip))
  - https://code4nova.zulipchat.com
