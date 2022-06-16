@@ -6,6 +6,7 @@
 
 - https://codefornova.org  
 - https://github.com/code4nova/cfn_refresh (New website - https://code4nova.github.io/cfn_refresh)  
+- https://github.com/code4nova/cfn-11ty (Code for NOVA static site built with 11ty static site generator)  
 - https://github.com/code4nova/codefornova (Old website for reference)  
 
 ### Reveal.js Server
@@ -25,7 +26,6 @@
 - Old Google Group (https://groups.google.com/g/nova-brigade)
 
 ## Others
-- Code for America 2022 May 17-18 Summit in Washington DC area (https://summit.codeforamerica.org)
 - Get Together event list: (https://gettogether.community/code-for-nova)
-- Brigade communication tool (Meetup chats, open-source alternative to Slack (https://github.com/zulip/zulip))
+- Brigade communication tool (Open-source alternative to Slack (https://github.com/zulip/zulip))
  - https://code4nova.zulipchat.com
